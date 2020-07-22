@@ -1,0 +1,117 @@
+{
+    "title": "ps4",
+    "date": "21/07/2020 22:51:43",
+    "best_item": {
+        "asin": "B07HNR4ZZD",
+        "url": "https://www.amazon.de/dp/B07HNR4ZZD",
+        "title": "PlayStation4 - Konsole (500GB, schwarz, slim)",
+        "seller": "Sony Interactive Entertainment",
+        "price": 292.43
+    },
+    "currency": "\u20ac",
+    "filters": {
+        "min": "275",
+        "max": "650"
+    },
+    "base_link": "https://www.amazon.de/",
+    "products": [
+        {
+            "asin": "B07HHPX4N1",
+            "url": "https://www.amazon.de/dp/B07HHPX4N1",
+            "title": "PlayStation 4 - Konsole (500 GB, schwarz, slim, F-Chassis) inkl. 2 DualShock 4 Controller",
+            "seller": "Sony Interactive Entertainment",
+            "price": 299.99
+        },
+        {
+            "asin": "B07HSJW7HK",
+            "url": "https://www.amazon.de/dp/B07HSJW7HK",
+            "title": "PlayStation 4 Pro - Konsole (1 TB, schwarz, Pro, Modell: CUH-7216B)",
+            "seller": "Sony Interactive Entertainment",
+            "price": 358.78
+        },
+        {
+            "asin": "B085PB4B6J",
+            "url": "https://www.amazon.de/dp/B085PB4B6J",
+            "title": "PlayStation 4 Pro - Konsole (1 TB, schwarz) PS Hits Naughty Dog Bundle",
+            "seller": "Sony Interactive Entertainment",
+            "price": 416.84
+        },
+        {
+            "asin": "B07HNR4ZZD",
+            "url": "https://www.amazon.de/dp/B07HNR4ZZD",
+            "title": "PlayStation4 - Konsole (500GB, schwarz, slim)",
+            "seller": "Sony Interactive Entertainment",
+            "price": 292.43
+        },
+        {
+            "asin": "B07YGJGFZC",
+            "url": "https://www.amazon.de/dp/B07YGJGFZC",
+            "title": "PlayStation 4 Virtual Reality Megapack - Edition 2 (inkl. Skyrim, Astro Bot Rescue Mission, VR Worlds, Resident Evil: Biohazard, Everybody\u00b4s Golf)",
+            "seller": "Sony Interactive Entertainment",
+            "price": 295.04
+        },
+        {
+            "asin": "B07KMV94JF",
+            "url": "https://www.amazon.de/dp/B07KMV94JF",
+            "title": "PlayStation 4 Slim - Konsole (1TB, schwarz)",
+            "seller": "Sony Interactive Entertainment",
+            "price": 341.17
+        },
+        {
+            "asin": "B07V282WBB",
+            "url": "https://www.amazon.de/dp/B07V282WBB",
+            "title": "PlayStation 4 Slim - Konsole (500GB, Jet Black) + 2 Controller: Fortnite Neo Versa Bundle",
+            "seller": "Sony Interactive Entertainment",
+            "price": 399.99
+        },
+        {
+            "asin": "B01LQF9T5O",
+            "url": "https://www.amazon.de/dp/B01LQF9T5O",
+            "title": "Sony Playstation 4 Slim \u2013 1 TB \u2013 black",
+            "seller": "Sony Interactive Entertainment",
+            "price": 359.0
+        },
+        {
+            "asin": "B07V29F7LW",
+            "url": "https://www.amazon.de/dp/B07V29F7LW",
+            "title": "PS4 - Konsole Black 500GB: Fortnite Neo-Versa-Bundle",
+            "seller": "Sony",
+            "price": 379.99
+        },
+        {
+            "asin": "B07WHSY2WT",
+            "url": "https://www.amazon.de/dp/B07WHSY2WT",
+            "title": "PlayStation 4 Slim - Konsole (1 TB, schwarz) inkl. FIFA 20 + 2 DualShock Controller",
+            "seller": "Sony Interactive Entertainment",
+            "price": 375.4
+        },
+        {
+            "asin": "B07G7XB6JQ",
+            "url": "https://www.amazon.de/dp/B07G7XB6JQ",
+            "title": "Sony Computer Entertainment - Playstation 4 Console 1TB - Fifa 19 Bundle (UK) /PS4 (1 GAMES)",
+            "seller": "Sony",
+            "price": 341.52
+        },
+        {
+            "asin": "B07YSW8PRS",
+            "url": "https://www.amazon.de/dp/B07YSW8PRS",
+            "title": "PlayStation 4 Pro - Konsole inkl. Call of Duty - Modern Warfare (1TB, schwarz, Pro)",
+            "seller": "Sony",
+            "price": 469.0
+        },
+        {
+            "asin": "B07YSX4DLW",
+            "url": "https://www.amazon.de/dp/B07YSX4DLW",
+            "title": "PlayStation 4 Slim inkl. 2 Controller und Call of Duty: Modern Warfare - Konsolenbundle (1TB, schwarz, Slim)",
+            "seller": "Sony",
+            "price": 479.0
+        },
+        {
+            "asin": "B07YSHHKX6",
+            "url": "https://www.amazon.de/dp/B07YSHHKX6",
+            "title": "Gaems Guardian mobile Spieleumgebung mit 24\" 1440p IPS Monitor | Kompatibel mit Notebooks, Mobilen PCs Spielekonsolen wie Xbox One / One S und PlayStation 4 (Pro, Slim, Standard) (Konsolen exclusive)",
+            "seller": "GAEMS",
+            "price": 682.34
+        }
+    ]
+}
