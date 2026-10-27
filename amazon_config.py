@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 
 DIRECTORY = 'reports'
 NAME = 'ps4'
@@ -13,7 +14,7 @@ BASE_URL = 'https://www.amazon.de/'
 
 
 def get_chrome_web_driver(options):
-    return webdriver.Chrome('./chromedriver.exe', chrome_options=options)
+    return webdriver.Chrome(service=Service('./chromedriver.exe'), options=options)
 
 
 def get_web_driver_options():
